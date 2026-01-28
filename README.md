@@ -1,6 +1,6 @@
 ### Hi there and welcome to my GitHub page 👋
 
-My Name is Lee Janzen-Morel and I'm an entry level Full Stack Developer, and aspiring Technical Project Manager. 
+My Name is Lee Janzen-Morel and I'm an entry level Full Stack Developer. 
 
 ---
 
