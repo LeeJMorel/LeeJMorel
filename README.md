@@ -66,15 +66,6 @@ I'm a full stack software engineer in Seattle who likes turning ideas into produ
 
 ---
 
-## 🏆 Awards
-
-- **Allen School Undergraduate Service Award (2023)** — awarded to 1–4 top graduates for exceptional student advocacy; recognized for improving DEIA services and creating a study center that boosted academic performance
-- **University of Washington Annual Dean's List (2023)** — GPA above 3.5
-- **NAEOP TRIO Achiever Award (2021)** — for outstanding contributions to society by TRIO students
-- **Chambers Commitment to Academic Excellence (2021)** — TRIO students with significant academic merit (2+ years of 4.0 GPA)
-
----
-
 ## 🎓 Education
 
 **B.S. in Computer Science** — University of Washington, Paul G. Allen School (June 2024)
