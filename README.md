@@ -31,42 +31,6 @@ I'm a full stack software engineer in Seattle who likes turning ideas into produ
 
 ---
 
-## 💼 Experience
-
-### Software Engineer I · Delfina Care
-`Seattle, WA` · `Apr 2025 – Present`
-- Built and shipped full-stack features for a healthcare platform supporting pregnancy care providers (React, Python/FastAPI, GraphQL, Postgres)
-- Improved provider-facing application performance by **40%** through frontend and API optimization
-- Raised provider dashboard **WCAG compliance from ~60% to 90%+** via accessibility-focused refactoring
-- Integrated external healthcare APIs to automate invoicing, cutting ~2 days of monthly operational overhead
-- Contributed to Terraform-managed GCP infrastructure (BigQuery, GCS, ingestion, secrets) and maintained Apache Beam analytics pipelines
-- Ran biweekly production on-call across frontend, backend, infra, and data; led an internal engineering knowledge base adopted org-wide
-
-### Founder and Lead Technical Architect · Morelitea
-`Seattle, WA` · `Sep 2025 – Present`
-- Architected and built a **multi-tenant project management platform** with workspace isolation, granular permissions, and scalable collaboration
-- Directed infrastructure and cybersecurity strategy: secure access control, system architecture, and technology selection
-- Drove agentic AI-assisted development workflows as system architect and implementation lead
-- Explored multi-agent orchestration patterns and AI-driven automation infrastructure
-
-### Undergraduate NLP Researcher · Paul G. Allen School, UW
-`Seattle, WA` · `Sep 2023 – Sep 2024`
-- Performed statistical data analysis and visualization in Python and Jupyter; engineered prompts for LLMs (ChatGPT, Llama 2)
-- Built a React frontend for accessible data analysis
-- Co-authored and published a workshop paper, orally presented at the **AAAI conference (April 2024)**
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| **[Initiative](https://github.com/LeeJMorel/initiative)** | Self-hosted, multi-tenant project management platform with workspace isolation and granular permissions | `Python` `FastAPI` |
-| **[PathKit](https://github.com/LeeJMorel/PathKit)** | All-in-one GM screen application for running Pathfinder 2e tabletop games | `React` `SQLite` |
-| **[MarvelVerse](https://github.com/LeeJMorel/MarvelVerse)** | Interactive network visualization exploring connections across the Marvel Comics universe | `TypeScript` `Sigma.js` |
-
----
-
 ## 🛠️ Skills
 
 **Languages & Frameworks**
