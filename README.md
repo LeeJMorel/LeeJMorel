@@ -66,9 +66,9 @@ I'm a full stack software engineer in Seattle who likes turning ideas into produ
 
 ---
 
-### Let's build something together
-
 <div align="center">
+  
+### Let's build something together
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=LeeJMorel&hide_border=true&theme=tokyonight)
 
