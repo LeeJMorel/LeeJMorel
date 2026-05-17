@@ -27,7 +27,7 @@ I'm a full stack software engineer in Seattle who likes turning ideas into produ
 - 🏗️ **Founder and Lead Technical Architect at Morelitea**
 - 🧪 Published **NLP research** through UW's Paul G. Allen School (AAAI workshop, 2024)
 - ♿ Accessibility minded: I build to WCAG standards by default
-- 🎓 B.S. Computer Science, University of Washington (June 2024)
+- 🎓 B.S. Computer Science, University of Washington - Seattle (June 2024)
 
 ---
 
@@ -63,12 +63,6 @@ I'm a full stack software engineer in Seattle who likes turning ideas into produ
 **Additional**
 
 `Technical Writing` · `System Design` · `Automation Infrastructure` · `AI Agent Workflows`
-
----
-
-## 🎓 Education
-
-**B.S. in Computer Science** — University of Washington, Paul G. Allen School (June 2024)
 
 ---
 
