@@ -72,19 +72,11 @@ I'm a full stack software engineer in Seattle who likes turning ideas into produ
 
 ---
 
-## 📊 GitHub Stats
+### Let's build something together
 
 <div align="center">
 
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=LeeJMorel&hide_border=true&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
-### Let's build something together
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leejmorel/)
 
