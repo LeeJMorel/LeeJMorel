@@ -76,10 +76,6 @@ I'm a full stack software engineer in Seattle who likes turning ideas into produ
 
 <div align="center">
 
-![Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeJMorel&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJMorel&layout=compact&hide_border=true&theme=tokyonight)
-
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=LeeJMorel&hide_border=true&theme=tokyonight)
 
 </div>
